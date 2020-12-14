@@ -13,13 +13,13 @@ const MenuContainer = ({ data }) => (
     <menu>
       <ul>
         <li>
-          <Link to="/">about</Link>
+          <Link to="/">sobre</Link>
         </li>
         <li>
-          <Link to="/blog">notes</Link>
+          <Link to="/blog">notas</Link>
         </li>
         <li>
-          <AnchorLink to="/#contact">contact</AnchorLink>
+          <AnchorLink to="/#contact">contato</AnchorLink>
         </li>
       </ul>
     </menu>

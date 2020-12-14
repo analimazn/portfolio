@@ -49,7 +49,7 @@
   color: #222222;
   font-size: 3em;
   font-family: 'Changa One', cursive;
-  margin: 0.2em 0;
+  margin: .2em .2em;
 }
 
 .menu-container span::first-letter  {
