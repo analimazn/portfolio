@@ -6,10 +6,18 @@ footer {
   height: 30px;
   background-color: #fff;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .social-media svg {
   font-size: 20px;
   margin: 5px;
   color: #9c9999;
+}
+
+footer span {
+  font-size: 1em;
+  color: #9c9999;
+  padding: .6em;
 }

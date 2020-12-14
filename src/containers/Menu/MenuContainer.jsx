@@ -9,7 +9,7 @@ import './style.css'
 
 const MenuContainer = ({ data }) => (
   <div className="menu-container">
-    <span className="logo">a.c</span>
+    <span className="logo">a.</span>
     <menu>
       <ul>
         <li>
